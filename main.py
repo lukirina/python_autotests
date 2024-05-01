@@ -3,7 +3,7 @@ test api
 """
 import requests
 URL = 'https://api.pokemonbattle.me'
-TOKEN = '6e691c5fa100ca68bb852da6604629af'
+TOKEN = 'USER_TOKEN'
 HEADERS = {'Content-Type': 'application/json', 'trainer_token': TOKEN}
           
 body = {
